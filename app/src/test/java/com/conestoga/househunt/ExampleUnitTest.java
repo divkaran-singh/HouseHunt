@@ -1,4 +1,4 @@
-package com.conestogasem3.househunt;
+package com.conestoga.househunt;
 
 import org.junit.Test;
 

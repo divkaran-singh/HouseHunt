@@ -1,4 +1,4 @@
-package com.conestogasem3.househunt;
+package com.conestoga.househunt;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.conestogasem3.househunt", appContext.getPackageName());
+        assertEquals("com.conestoga.househunt", appContext.getPackageName());
     }
 }

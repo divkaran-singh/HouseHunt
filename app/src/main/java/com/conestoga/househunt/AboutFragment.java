@@ -1,11 +1,11 @@
-package com.conestogasem3.househunt;
+package com.conestoga.househunt;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.conestogasem3.househunt.R;
+import com.conestoga.househunt.R;
 
 import androidx.fragment.app.Fragment;
 

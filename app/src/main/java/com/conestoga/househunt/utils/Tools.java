@@ -1,4 +1,4 @@
-package com.conestogasem3.househunt.utils;
+package com.conestoga.househunt.utils;
 
 import android.animation.AnimatorSet;
 import android.animation.ObjectAnimator;
@@ -28,7 +28,7 @@ import android.widget.Toast;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.bumptech.glide.request.target.BitmapImageViewTarget;
-import com.conestogasem3.househunt.R;
+import com.conestoga.househunt.R;
 
 import java.io.ByteArrayOutputStream;
 import java.text.SimpleDateFormat;
